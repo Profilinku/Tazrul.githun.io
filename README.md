@@ -1,3 +1,3 @@
-# Tazrul.githun.io
+# Tazrul.github.io
 # index.html
 # style.css
